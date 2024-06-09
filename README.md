@@ -2,7 +2,7 @@
 
 Docker image for relaying mail from SMTP to the Microsoft Graph API. Uses node smtp-server and MS Graph sendMail.
 
--   _Attachment support coming soon_
+_Added Attachment support_
 
 ## Deploy
 
